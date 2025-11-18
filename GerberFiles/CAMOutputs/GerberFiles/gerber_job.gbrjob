@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-10-09T23:53:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "hydraulic_cb_version_2.3"
+        },
+        "Owner": "Allyson Chen <aechen@ucsd.edu>",
+        "Size": {
+            "X": 56.82,
+            "Y": 63.49
+        }
+    }
+}
